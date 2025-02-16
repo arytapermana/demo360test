@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_02B42399_0E9A_C315_417C_51C6812DDE17.label = DSC05374-HDR Panorama Compressed
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 6
