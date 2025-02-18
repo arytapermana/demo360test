@@ -3,7 +3,7 @@
 ## Media
 
 ### Title
-panorama_02B42399_0E9A_C315_417C_51C6812DDE17.label = DSC05374-HDR Panorama Compressed
+panorama_15FE7A09_18BE_A3B6_41AF_4D59829AE06F.label = DSC05374-HDR Panorama Compressed
 
 ## Tour
 
